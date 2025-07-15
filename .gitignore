@@ -1,0 +1,28 @@
+# Visual Studio related files and folders
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output folders
+x64/
+Debug/
+Release/
+
+# Object files and executables
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# Logs and temporary files
+*.log
+*.idb
+*.ipch
+
+# Miscellaneous
+*.lastbuildstate
+*.tlog/
+*.cache
+*.sdf
